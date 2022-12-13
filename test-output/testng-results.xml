@@ -1,0 +1,575 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="6" total="11" passed="5">
+  <reporter-output>
+    <line>
+      <![CDATA[Mouse hovering on desktop]]>
+    </line>
+    <line>
+      <![CDATA[Sorting product to A to Z]]>
+    </line>
+    <line>
+      <![CDATA[Expected text]]>
+    </line>
+    <line>
+      <![CDATA[Getting actual text]]>
+    </line>
+    <line>
+      <![CDATA[Changing date]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add to cart]]>
+    </line>
+    <line>
+      <![CDATA[Expected text]]>
+    </line>
+    <line>
+      <![CDATA[Getting actual text]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on shopping cart]]>
+    </line>
+    <line>
+      <![CDATA[Expected text]]>
+    </line>
+    <line>
+      <![CDATA[Getting actual text]]>
+    </line>
+    <line>
+      <![CDATA[Expected text]]>
+    </line>
+    <line>
+      <![CDATA[Getting actual text]]>
+    </line>
+    <line>
+      <![CDATA[Expected text]]>
+    </line>
+    <line>
+      <![CDATA[Getting actual text]]>
+    </line>
+    <line>
+      <![CDATA[Expected text]]>
+    </line>
+    <line>
+      <![CDATA[Getting actual text]]>
+    </line>
+    <line>
+      <![CDATA[Selecting currency]]>
+    </line>
+    <line>
+      <![CDATA[Expected text]]>
+    </line>
+    <line>
+      <![CDATA[Getting actual text]]>
+    </line>
+    <line>
+      <![CDATA[Verifying laptops and notebooks text]]>
+    </line>
+    <line>
+      <![CDATA[Verifying product price desplay high to low]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on macbook]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text]]>
+    </line>
+    <line>
+      <![CDATA[Text verification]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on add to cart]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text]]>
+    </line>
+    <line>
+      <![CDATA[Text verification]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on shopping cart]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text]]>
+    </line>
+    <line>
+      <![CDATA[Text verification]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text]]>
+    </line>
+    <line>
+      <![CDATA[Text verification]]>
+    </line>
+    <line>
+      <![CDATA[Updating quantity]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on update]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text]]>
+    </line>
+    <line>
+      <![CDATA[Text verification]]>
+    </line>
+    <line>
+      <![CDATA[Selecting currency]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text]]>
+    </line>
+    <line>
+      <![CDATA[Text verification]]>
+    </line>
+    <line>
+      <![CDATA[Click on check out button]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text]]>
+    </line>
+    <line>
+      <![CDATA[Text verification]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text]]>
+    </line>
+    <line>
+      <![CDATA[Text verification]]>
+    </line>
+    <line>
+      <![CDATA[Clicking radio button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Filling mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Filling mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Filling mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Filling mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Filling mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Filling mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Filling mandatory fields]]>
+    </line>
+    <line>
+      <![CDATA[Selecting country]]>
+    </line>
+    <line>
+      <![CDATA[Selecting state]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button payment]]>
+    </line>
+    <line>
+      <![CDATA[adding comment]]>
+    </line>
+    <line>
+      <![CDATA[Click on checkbox]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue button]]>
+    </line>
+    <line>
+      <![CDATA[Expected Text]]>
+    </line>
+    <line>
+      <![CDATA[Text verification]]>
+    </line>
+    <line>
+      <![CDATA[Click on my accounts]]>
+    </line>
+    <line>
+      <![CDATA[Selecting my account option]]>
+    </line>
+    <line>
+      <![CDATA[Filling account registration details]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on radio button]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on agree]]>
+    </line>
+    <line>
+      <![CDATA[Click on continue]]>
+    </line>
+    <line>
+      <![CDATA[Getting account text]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue]]>
+    </line>
+    <line>
+      <![CDATA[Click on my accounts]]>
+    </line>
+    <line>
+      <![CDATA[Selecting my account option]]>
+    </line>
+    <line>
+      <![CDATA[Getting logout text]]>
+    </line>
+    <line>
+      <![CDATA[Clicking on continue]]>
+    </line>
+    <line>
+      <![CDATA[Click on my accounts]]>
+    </line>
+    <line>
+      <![CDATA[Selecting my account option]]>
+    </line>
+    <line>
+      <![CDATA[Getting returning customer text]]>
+    </line>
+  </reporter-output>
+  <suite name="Smoke Test" duration-ms="96381" started-at="2022-12-13T22:14:48 GMT" finished-at="2022-12-13T22:16:24 GMT">
+    <groups>
+      <group name="regression">
+        <method signature="DesktopsTest.verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@47db50c5]" name="verifyProductAddedToShoppingCartSuccessFully" class="com.tutorialsninja.testsuite.DesktopsTest"/>
+        <method signature="HomepageTest.verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.HomepageTest@4ae82894]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" class="com.tutorialsninja.testsuite.HomepageTest"/>
+        <method signature="LaptopsAndNoteBooksTest.verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest@6d3af739]" name="verifyThatUserPlaceOrderSuccessfully" class="com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest"/>
+        <method signature="MyAccountsTest.verifyThatUserRegisterAccountSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="verifyThatUserRegisterAccountSuccessfully" class="com.tutorialsninja.testsuite.MyAccountsTest"/>
+        <method signature="MyAccountsTest.verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="verifyUserShouldNavigateToLoginPageSuccessfully" class="com.tutorialsninja.testsuite.MyAccountsTest"/>
+      </group> <!-- regression -->
+      <group name="smoke">
+        <method signature="DesktopsTest.verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@47db50c5]" name="verifyProductAddedToShoppingCartSuccessFully" class="com.tutorialsninja.testsuite.DesktopsTest"/>
+        <method signature="HomepageTest.verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.HomepageTest@4ae82894]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" class="com.tutorialsninja.testsuite.HomepageTest"/>
+        <method signature="LaptopsAndNoteBooksTest.verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest@6d3af739]" name="verifyThatUserPlaceOrderSuccessfully" class="com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest"/>
+        <method signature="MyAccountsTest.verifyThatUserRegisterAccountSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="verifyThatUserRegisterAccountSuccessfully" class="com.tutorialsninja.testsuite.MyAccountsTest"/>
+        <method signature="MyAccountsTest.verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="verifyUserShouldNavigateToLoginPageSuccessfully" class="com.tutorialsninja.testsuite.MyAccountsTest"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test name="Smoke Test" duration-ms="96381" started-at="2022-12-13T22:14:48 GMT" finished-at="2022-12-13T22:16:24 GMT">
+      <class name="com.tutorialsninja.testsuite.MyAccountsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="setUp" is-config="true" duration-ms="3791" started-at="2022-12-13T22:15:39 GMT" finished-at="2022-12-13T22:15:43 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="inIt" is-config="true" duration-ms="5" started-at="2022-12-13T22:15:43 GMT" finished-at="2022-12-13T22:15:43 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyThatUserRegisterAccountSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="verifyThatUserRegisterAccountSuccessfully" duration-ms="33075" started-at="2022-12-13T22:15:43 GMT" finished-at="2022-12-13T22:16:16 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on my accounts]]>
+            </line>
+            <line>
+              <![CDATA[Selecting my account option]]>
+            </line>
+            <line>
+              <![CDATA[Filling account registration details]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on radio button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on agree]]>
+            </line>
+            <line>
+              <![CDATA[Click on continue]]>
+            </line>
+            <line>
+              <![CDATA[Getting account text]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue]]>
+            </line>
+            <line>
+              <![CDATA[Click on my accounts]]>
+            </line>
+            <line>
+              <![CDATA[Selecting my account option]]>
+            </line>
+            <line>
+              <![CDATA[Getting logout text]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserRegisterAccountSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="tearDown" is-config="true" duration-ms="904" started-at="2022-12-13T22:16:16 GMT" finished-at="2022-12-13T22:16:17 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="setUp" is-config="true" duration-ms="5645" started-at="2022-12-13T22:16:17 GMT" finished-at="2022-12-13T22:16:23 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="inIt" is-config="true" duration-ms="1" started-at="2022-12-13T22:16:23 GMT" finished-at="2022-12-13T22:16:23 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLoginPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="verifyUserShouldNavigateToLoginPageSuccessfully" duration-ms="696" started-at="2022-12-13T22:16:23 GMT" finished-at="2022-12-13T22:16:24 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Click on my accounts]]>
+            </line>
+            <line>
+              <![CDATA[Selecting my account option]]>
+            </line>
+            <line>
+              <![CDATA[Getting returning customer text]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLoginPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.MyAccountsTest@1da51a35]" name="tearDown" is-config="true" duration-ms="860" started-at="2022-12-13T22:16:24 GMT" finished-at="2022-12-13T22:16:24 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.MyAccountsTest -->
+      <class name="com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest@6d3af739]" name="setUp" is-config="true" duration-ms="3718" started-at="2022-12-13T22:15:19 GMT" finished-at="2022-12-13T22:15:23 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest@6d3af739]" name="inIt" is-config="true" duration-ms="8" started-at="2022-12-13T22:15:23 GMT" finished-at="2022-12-13T22:15:23 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyThatUserPlaceOrderSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest@6d3af739]" name="verifyThatUserPlaceOrderSuccessfully" duration-ms="15921" started-at="2022-12-13T22:15:23 GMT" finished-at="2022-12-13T22:15:38 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Verifying product price desplay high to low]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on macbook]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text]]>
+            </line>
+            <line>
+              <![CDATA[Text verification]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add to cart]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text]]>
+            </line>
+            <line>
+              <![CDATA[Text verification]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on shopping cart]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text]]>
+            </line>
+            <line>
+              <![CDATA[Text verification]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text]]>
+            </line>
+            <line>
+              <![CDATA[Text verification]]>
+            </line>
+            <line>
+              <![CDATA[Updating quantity]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on update]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text]]>
+            </line>
+            <line>
+              <![CDATA[Text verification]]>
+            </line>
+            <line>
+              <![CDATA[Selecting currency]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text]]>
+            </line>
+            <line>
+              <![CDATA[Text verification]]>
+            </line>
+            <line>
+              <![CDATA[Click on check out button]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text]]>
+            </line>
+            <line>
+              <![CDATA[Text verification]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text]]>
+            </line>
+            <line>
+              <![CDATA[Text verification]]>
+            </line>
+            <line>
+              <![CDATA[Clicking radio button]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Filling mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Filling mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Filling mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Filling mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Filling mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Filling mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Filling mandatory fields]]>
+            </line>
+            <line>
+              <![CDATA[Selecting country]]>
+            </line>
+            <line>
+              <![CDATA[Selecting state]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button payment]]>
+            </line>
+            <line>
+              <![CDATA[adding comment]]>
+            </line>
+            <line>
+              <![CDATA[Click on checkbox]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on continue button]]>
+            </line>
+            <line>
+              <![CDATA[Expected Text]]>
+            </line>
+            <line>
+              <![CDATA[Text verification]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyThatUserPlaceOrderSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest@6d3af739]" name="tearDown" is-config="true" duration-ms="898" started-at="2022-12-13T22:15:38 GMT" finished-at="2022-12-13T22:15:39 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest -->
+      <class name="com.tutorialsninja.testsuite.HomepageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.HomepageTest@4ae82894]" name="setUp" is-config="true" duration-ms="4165" started-at="2022-12-13T22:15:13 GMT" finished-at="2022-12-13T22:15:17 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.HomepageTest@4ae82894]" name="inIt" is-config="true" duration-ms="1" started-at="2022-12-13T22:15:17 GMT" finished-at="2022-12-13T22:15:17 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()[pri:0, instance:com.tutorialsninja.testsuite.HomepageTest@4ae82894]" name="verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully" duration-ms="1101" started-at="2022-12-13T22:15:17 GMT" finished-at="2022-12-13T22:15:18 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Verifying laptops and notebooks text]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.HomepageTest@4ae82894]" name="tearDown" is-config="true" duration-ms="854" started-at="2022-12-13T22:15:18 GMT" finished-at="2022-12-13T22:15:19 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.HomepageTest -->
+      <class name="com.tutorialsninja.testsuite.DesktopsTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@47db50c5]" name="setUp" is-config="true" duration-ms="6588" started-at="2022-12-13T22:14:48 GMT" finished-at="2022-12-13T22:14:55 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="inIt()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@47db50c5]" name="inIt" is-config="true" duration-ms="87" started-at="2022-12-13T22:14:55 GMT" finished-at="2022-12-13T22:14:55 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- inIt -->
+        <test-method status="PASS" signature="verifyProductAddedToShoppingCartSuccessFully()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@47db50c5]" name="verifyProductAddedToShoppingCartSuccessFully" duration-ms="16818" started-at="2022-12-13T22:14:55 GMT" finished-at="2022-12-13T22:15:12 GMT">
+          <reporter-output>
+            <line>
+              <![CDATA[Mouse hovering on desktop]]>
+            </line>
+            <line>
+              <![CDATA[Sorting product to A to Z]]>
+            </line>
+            <line>
+              <![CDATA[Expected text]]>
+            </line>
+            <line>
+              <![CDATA[Getting actual text]]>
+            </line>
+            <line>
+              <![CDATA[Changing date]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on add to cart]]>
+            </line>
+            <line>
+              <![CDATA[Expected text]]>
+            </line>
+            <line>
+              <![CDATA[Getting actual text]]>
+            </line>
+            <line>
+              <![CDATA[Clicking on shopping cart]]>
+            </line>
+            <line>
+              <![CDATA[Expected text]]>
+            </line>
+            <line>
+              <![CDATA[Getting actual text]]>
+            </line>
+            <line>
+              <![CDATA[Expected text]]>
+            </line>
+            <line>
+              <![CDATA[Getting actual text]]>
+            </line>
+            <line>
+              <![CDATA[Expected text]]>
+            </line>
+            <line>
+              <![CDATA[Getting actual text]]>
+            </line>
+            <line>
+              <![CDATA[Expected text]]>
+            </line>
+            <line>
+              <![CDATA[Getting actual text]]>
+            </line>
+            <line>
+              <![CDATA[Selecting currency]]>
+            </line>
+            <line>
+              <![CDATA[Expected text]]>
+            </line>
+            <line>
+              <![CDATA[Getting actual text]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyProductAddedToShoppingCartSuccessFully -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.tutorialsninja.testsuite.DesktopsTest@47db50c5]" name="tearDown" is-config="true" duration-ms="717" started-at="2022-12-13T22:15:12 GMT" finished-at="2022-12-13T22:15:13 GMT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.tutorialsninja.testsuite.DesktopsTest -->
+    </test> <!-- Smoke Test -->
+  </suite> <!-- Smoke Test -->
+</testng-results>

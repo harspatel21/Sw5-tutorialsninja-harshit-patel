@@ -1,0 +1,211 @@
+<html>
+<head>
+<title>TestNG:  Smoke Test</title>
+<link href="../testng.css" rel="stylesheet" type="text/css" />
+<link href="../my-testng.css" rel="stylesheet" type="text/css" />
+
+<style type="text/css">
+.log { display: none;} 
+.stack-trace { display: none;} 
+</style>
+<script type="text/javascript">
+<!--
+function flip(e) {
+  current = e.style.display;
+  if (current == 'block') {
+    e.style.display = 'none';
+    return 0;
+  }
+  else {
+    e.style.display = 'block';
+    return 1;
+  }
+}
+
+function toggleBox(szDivId, elem, msg1, msg2)
+{
+  var res = -1;  if (document.getElementById) {
+    res = flip(document.getElementById(szDivId));
+  }
+  else if (document.all) {
+    // this is the way old msie versions work
+    res = flip(document.all[szDivId]);
+  }
+  if(elem) {
+    if(res == 0) elem.innerHTML = msg1; else elem.innerHTML = msg2;
+  }
+
+}
+
+function toggleAllBoxes() {
+  if (document.getElementsByTagName) {
+    d = document.getElementsByTagName('div');
+    for (i = 0; i < d.length; i++) {
+      if (d[i].className == 'log') {
+        flip(d[i]);
+      }
+    }
+  }
+}
+
+// -->
+</script>
+
+</head>
+<body>
+<h2 align='center'>Smoke Test</h2><table border='1' align="center">
+<tr>
+<td>Tests passed/Failed/Skipped:</td><td>5/0/0</td>
+</tr><tr>
+<td>Started on:</td><td>Tue Dec 13 22:14:48 GMT 2022</td>
+</tr>
+<tr><td>Total time:</td><td>96 seconds (96381 ms)</td>
+</tr><tr>
+<td>Included groups:</td><td>smoke </td>
+</tr><tr>
+<td>Excluded groups:</td><td></td>
+</tr>
+</table><p/>
+<small><i>(Hover the method name to see the test class name)</i></small><p/>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
+<tr><td><b>Test method</b></td>
+<td width="30%"><b>Exception</b></td>
+<td width="10%"><b>Time (seconds)</b></td>
+<td><b>Instance</b></td>
+</tr>
+<tr>
+<td title='com.tutorialsninja.testsuite.MyAccountsTest.verifyUserShouldNavigateToLoginPageSuccessfully()'><b>verifyUserShouldNavigateToLoginPageSuccessfully</b><br>Test class: com.tutorialsninja.testsuite.MyAccountsTest<br/>
+<a href="#Output-716825662" onClick='toggleBox("Output-716825662", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-716825662" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-716825662">
+Click on my accounts<br/>
+Selecting my account option<br/>
+Getting returning customer text<br/>
+</div>
+</td>
+<td></td>
+<td>0</td>
+<td>com.tutorialsninja.testsuite.MyAccountsTest@1da51a35</td></tr>
+<tr>
+<td title='com.tutorialsninja.testsuite.HomepageTest.verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully()'><b>verifyUserShouldNavigateToLaptopsAndNotebooksPageSuccessfully</b><br>Test class: com.tutorialsninja.testsuite.HomepageTest<br/>
+<a href="#Output-1651379334" onClick='toggleBox("Output-1651379334", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1651379334" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1651379334">
+Verifying laptops and notebooks text<br/>
+</div>
+</td>
+<td></td>
+<td>1</td>
+<td>com.tutorialsninja.testsuite.HomepageTest@4ae82894</td></tr>
+<tr>
+<td title='com.tutorialsninja.testsuite.MyAccountsTest.verifyThatUserRegisterAccountSuccessfully()'><b>verifyThatUserRegisterAccountSuccessfully</b><br>Test class: com.tutorialsninja.testsuite.MyAccountsTest<br/>
+<a href="#Output-992524208" onClick='toggleBox("Output-992524208", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-992524208" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-992524208">
+Click on my accounts<br/>
+Selecting my account option<br/>
+Filling account registration details<br/>
+Clicking on radio button<br/>
+Clicking on agree<br/>
+Click on continue<br/>
+Getting account text<br/>
+Clicking on continue<br/>
+Click on my accounts<br/>
+Selecting my account option<br/>
+Getting logout text<br/>
+Clicking on continue<br/>
+</div>
+</td>
+<td></td>
+<td>33</td>
+<td>com.tutorialsninja.testsuite.MyAccountsTest@1da51a35</td></tr>
+<tr>
+<td title='com.tutorialsninja.testsuite.DesktopsTest.verifyProductAddedToShoppingCartSuccessFully()'><b>verifyProductAddedToShoppingCartSuccessFully</b><br>Test class: com.tutorialsninja.testsuite.DesktopsTest<br/>
+<a href="#Output-589309113" onClick='toggleBox("Output-589309113", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-589309113" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-589309113">
+Mouse hovering on desktop<br/>
+Sorting product to A to Z<br/>
+Expected text<br/>
+Getting actual text<br/>
+Changing date<br/>
+Clicking on add to cart<br/>
+Expected text<br/>
+Getting actual text<br/>
+Clicking on shopping cart<br/>
+Expected text<br/>
+Getting actual text<br/>
+Expected text<br/>
+Getting actual text<br/>
+Expected text<br/>
+Getting actual text<br/>
+Expected text<br/>
+Getting actual text<br/>
+Selecting currency<br/>
+Expected text<br/>
+Getting actual text<br/>
+</div>
+</td>
+<td></td>
+<td>16</td>
+<td>com.tutorialsninja.testsuite.DesktopsTest@47db50c5</td></tr>
+<tr>
+<td title='com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest.verifyThatUserPlaceOrderSuccessfully()'><b>verifyThatUserPlaceOrderSuccessfully</b><br>Test class: com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest<br/>
+<a href="#Output-622625093" onClick='toggleBox("Output-622625093", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-622625093" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-622625093">
+Verifying product price desplay high to low<br/>
+Clicking on macbook<br/>
+Expected Text<br/>
+Text verification<br/>
+Clicking on add to cart<br/>
+Expected Text<br/>
+Text verification<br/>
+Clicking on shopping cart<br/>
+Expected Text<br/>
+Text verification<br/>
+Expected Text<br/>
+Text verification<br/>
+Updating quantity<br/>
+Clicking on update<br/>
+Expected Text<br/>
+Text verification<br/>
+Selecting currency<br/>
+Expected Text<br/>
+Text verification<br/>
+Click on check out button<br/>
+Expected Text<br/>
+Text verification<br/>
+Expected Text<br/>
+Text verification<br/>
+Clicking radio button<br/>
+Clicking on continue button<br/>
+Filling mandatory fields<br/>
+Filling mandatory fields<br/>
+Filling mandatory fields<br/>
+Filling mandatory fields<br/>
+Filling mandatory fields<br/>
+Filling mandatory fields<br/>
+Filling mandatory fields<br/>
+Selecting country<br/>
+Selecting state<br/>
+Clicking on continue button payment<br/>
+adding comment<br/>
+Click on checkbox<br/>
+Clicking on continue button<br/>
+Expected Text<br/>
+Text verification<br/>
+</div>
+</td>
+<td></td>
+<td>15</td>
+<td>com.tutorialsninja.testsuite.LaptopsAndNoteBooksTest@6d3af739</td></tr>
+</table><p>
+</body>
+</html>
